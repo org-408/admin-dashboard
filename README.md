@@ -6,7 +6,7 @@ This Admin Dashboard is a comprehensive front-end application built with React, 
 
 The dashboard features a clean, professional interface with multiple functional sections, data visualization components, and a fully interactive user experience. It is designed to showcase advanced front-end development skills while maintaining high standards of code quality and structure.
 
-![Admin Dashboard Preview](/images/dashboard-preview.png)
+![Admin Dashboard Preview](./images/dashboard-preview.png)
 
 ## Live Demo
 
