@@ -1,6 +1,7 @@
 {
   "name": "admin-dashboard",
   "version": "0.1.0",
+  "description": "Admin Dashboard - Modern React & TypeScript Application",
   "private": true,
   "dependencies": {
     "@tailwindcss/cli": "^4.0.9",
